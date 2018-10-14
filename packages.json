@@ -757,6 +757,20 @@
     "repo": "https://github.com/slamdata/purescript-halogen-vdom.git",
     "version": "v3.0.0"
   },
+  "hedwig": {
+    "dependencies": [
+      "aff",
+      "console",
+      "effect",
+      "nullable",
+      "prelude",
+      "web-dom",
+      "web-events",
+      "web-html"
+    ],
+    "repo": "https://github.com/utkarshkukreti/purescript-hedwig",
+    "version": "0.1.1"
+  },
   "heterogeneous": {
     "dependencies": [
       "either",

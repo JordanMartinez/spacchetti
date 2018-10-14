@@ -29,6 +29,7 @@
           ⫽ ./groups/fehrenbach.dhall
           ⫽ ./groups/brandonhamilton.dhall
           ⫽ ./groups/rnons.dhall
+          ⫽ ./groups/utkarshkukreti.dhall
           ⫽ ./groups/justinwoo.dhall
 
 in  packages
